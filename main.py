@@ -31,7 +31,7 @@ def verify_password():
 start_info = [
     f"{tcolors.cyan}Youtube Downloader{tcolors.clear}", 
     f"{tcolors.gray}Written in Python 3.10.7 - 12/1/2023",
-    "By SakuK" + tcolors.clear,
+    "" + tcolors.clear,
 ]
 
 options = [
